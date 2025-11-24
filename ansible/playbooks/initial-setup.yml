@@ -1,0 +1,10 @@
+---
+- name: Setup all environment
+  hosts: all
+  become: true
+  roles:
+    - 
+    - 
+    -
+    -
+ 
